@@ -1,0 +1,97 @@
+
+
+.baner-tittle{
+    text-align: right;
+    font-size: 55px;
+    padding: 150px 115px 8px 890px;
+    font-weight: 700;
+}
+.banner-discription{
+    
+    margin-right: 110px;
+    font-family: 'work Sans';
+    text-align: right;
+    font-size: 20px;
+    font-weight: 400;
+}
+.section1{
+    height: 800px;   
+    background-image: url('./new-year-new-me/images/banner/banner1.png');
+    padding-bottom: 0px;
+    background-repeat: no-repeat;
+    
+}
+.btn-prime{
+    color: aliceblue;
+    background: chocolate;
+    font-weight: 700;
+    font-size: 20px;
+    border: 0px;
+    padding: 18px;
+    height: 64px;
+    border-radius: 5px;
+    margin-left: 1270px;
+}
+/* Secound Banner Style */
+.section2{
+    margin: 300px 80px 50px 60px;
+    text-align: left;
+    display: flex;
+    
+}
+.secound-banner-tittle{
+    margin-top: 60px;
+    font-family: 'Work Sans';
+padding-left: 400px;
+font-style: normal;
+font-weight: 900px;
+font-size: 65px;
+padding-bottom: 30px;
+
+
+}
+.secound-benner-discription{
+padding-left: 400px;
+ font-family: 'work sans';
+ font-size: 20px;
+ font-weight: 900;
+ margin-bottom: 30px;
+ color: #757575;
+}
+.secound-banner-point{
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+color: #757575;
+font-family: 'Work Sans';
+padding-left: 440px;
+}
+
+.all-texts{
+    padding-top: 100px;
+}
+/* My Plan Section Style */
+.my-plan{
+    font-size: 50px;
+    font-family:'Work Sans';
+    <hr>
+    font-weight: 700px;
+    margin-top: 200px;
+    text-align: center;
+}
+
+.plan-container{
+    display: flex;
+    gap: 200px;
+    margin: 100px 00px 200px 200px;
+    text-align: center;
+    
+}
+.plan-tittle{
+    font-weight: 1100;
+    font-size: 28px;
+}
+.plan-discription{
+    color: #757575;
+    margin-bottom: 100px;
+}
