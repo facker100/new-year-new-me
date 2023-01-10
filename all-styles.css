@@ -95,3 +95,57 @@ padding-left: 440px;
     color: #757575;
     margin-bottom: 100px;
 }
+/* Gradent Image */
+.gradient-image{
+   margin: 200px  300px 250px 300px;
+   padding: 5px;
+   display: flex;     
+   height: 250px;
+   width: 1000px;
+   background: url('./new-year-new-me/images/watch.png'); 
+   background-repeat: no-repeat;
+   border-radius: 5px;
+}
+.gradient-image-tittle{
+    color: rgb(252, 129, 28);
+    font-size:40px ;
+    text-align: left;
+}
+/* Footer Style */
+
+.footer{
+    height: 100%;
+    width: 100;
+    background: rgb(8, 5, 1);
+    margin-bottom: 200px;
+    
+}
+.footer-tittle{
+color: aliceblue;
+background: rgb(8, 5, 1);
+font-size: 25px ;
+font-family: 'work Sans';
+padding: 150px 200px 0px 100px;
+}
+.footer-discription{
+    font-weight: 18px;
+    font-size: 20px;
+    color: aliceblue;
+    font-family: 'work Sans';;
+    padding: 0px 0px 40px 100px;
+
+}
+.contuct{
+    font-size: 20px;
+    font-weight: 5px;
+    margin-left: 100px;
+    margin-bottom: 40px;
+    color: aliceblue;
+
+}
+.footer-immage{
+    display: flex;
+    gap: 20px;
+    margin-left: 90px;
+    padding-bottom:200px ;
+}
